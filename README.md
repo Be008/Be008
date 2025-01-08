@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">✨ Hi, I'm Bernardo. A Web Development student from Brazil.<br>📚 I'm currently in high school.<br>🎯 Microsoft AZ-900 Certificate.</h6>
+<h6 align="left">✨ Hi, I'm Bernardo. A Web Development from Brazil.<br><br>🎯 Microsoft AZ-900 Certificate.</h6>
 
 ###
 
